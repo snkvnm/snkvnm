@@ -3,4 +3,4 @@
 - 🌱 anarchist + solarpunk
 - ⚙️ using vscodium + maple mono
 
-[website](https://playmoar.neocities.org/) | [mastodon](https://flipping.rocks/@snake)
+[website](https://playmoar.neocities.org/)
