@@ -1,4 +1,4 @@
-### SNAKE V.
-- 💻 [hacker](http://catb.org/jargon/html/H/hacker.html) + webdev
-- 🌱 anarchist + solarpunk
-- ⚙️ using vscodium + maple mono
+#### SNAKE V.
+- he/him &mdash; [website](https://terrybogard.gay)
+- hacker / poweruser
+- grass toucher (ecologist)
